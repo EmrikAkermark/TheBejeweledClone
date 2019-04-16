@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3adc2637cb9a442a290ef824f106326b, type: 3}
+  m_Name: Gobs
+  m_EditorClassIdentifier: 
+  GameObjects:
+  - {fileID: 8056117952428575264, guid: f4c39b8f0b1be47ab8f23d0fafd8a087, type: 3}
+  - {fileID: 1525895824856427557, guid: 1c81abdc5cbfb44f697f1d2743dd16c9, type: 3}
+  - {fileID: 1588726117887568915, guid: a80d18c351aa045e2a6afcd4d38829b3, type: 3}
+  - {fileID: 3410813116089454239, guid: 97dbaf325d6f64cee9af1ff05e72e36c, type: 3}
